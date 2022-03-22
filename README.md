@@ -38,3 +38,5 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 📍 **Ironhack Brazil**
 
 </details>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> Proud user
