@@ -1,8 +1,12 @@
-<h1 align="left">Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz</h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz (Jota)!</h1>
 
 - :man: Junior Web Developer & Instructor focused on helping people start programming 
 
 - 🔭 I’m currently searching for new opportunities!
+
+Amo os desafios e o dinamismo da vida - tanto que sou um formando em Relações Internacionais e em atual transição para uma carreira de Desenvolvimento Web.
+
+I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people lives. Therefore, I'm currently studying and practicing, as you can see in my projects, ways to implement what I learn in real life and powerful tools for the community.
 
 ## :floppy_disk: Stack
 
