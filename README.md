@@ -24,7 +24,7 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 
 ### :earth_americas: You can reach me here:
 
-<a href="mailto:jvkferraz@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="mailto:jvkferraz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jvkf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <details>
