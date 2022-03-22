@@ -1,12 +1,8 @@
-<h1 align="left">Hey, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz</h1>
+<h1 align="left">Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz</h1>
 
 - :man: Junior Web Developer & Instructor focused on helping people start programming 
 
 - 🔭 I’m currently searching for new opportunities!
-
-
-
-<br><br>
 
 ## :floppy_disk: Stack
 
@@ -18,17 +14,12 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
-
-<br><br>
-
 ## :crystal_ball: Stats
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jotavkf&show_icons=true&theme=vision-friendly-dark" alt="Jotavkf stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavkf&layout=compact&theme=vision-friendly-dark" alt="Jotavkf most used languages"/>
 </p>
-
-<br><br>
 
 ### :earth_americas: You can reach me here:
 
