@@ -1,6 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz (Jota)!</h1>
 
-<p align="center"> :man: Junior Web Developer currently searching for new opportunities! 🔭</p>
+<p align="center"> :man: Junior Web Developer currently searching for new opportunities! 🔭</p
+<br></br>
 
 I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people lives. Therefore, I'm currently studying and practicing, as you can see in my projects, ways to implement what I learn in real life and powerful tools for the community.
 
