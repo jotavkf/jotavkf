@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz (Jota)!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz!</h1>
 
 <p align="center"> :man: Junior Web Developer currently searching for new opportunities! 🔭</p
 <br></br>
