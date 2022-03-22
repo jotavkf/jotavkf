@@ -1,8 +1,6 @@
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz (Jota)!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vítor Ferraz (Jota)!</h1>
 
-- :man: Junior Web Developer & Instructor focused on helping people start programming 
-
-- 🔭 I’m currently searching for new opportunities!
+<p align="center"> - :man: Junior Web Developer currently searching for new opportunities! 🔭</p>
 
 I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people lives. Therefore, I'm currently studying and practicing, as you can see in my projects, ways to implement what I learn in real life and powerful tools for the community.
 
@@ -27,3 +25,15 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 
 <a href="mailto:jvkferraz@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jvkf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Full-time bootcamp Full-stack Web Development**\
+📆 Jan 2022 - Mar 2022\
+📍 **Ironhack Brazil**
+
+</details>
