@@ -6,7 +6,6 @@
 I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people lives. Therefore, I'm currently studying and practicing, as you can see in my projects, ways to implement what I learn in real life and powerful tools for the community.
 
 <br></br>
-
 ## :floppy_disk: Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
