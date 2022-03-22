@@ -28,7 +28,7 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 <a href="https://linkedin.com/in/jvkf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary><h3>📃 Resume</h3></summary>
 
 
 ## Education
