@@ -33,8 +33,8 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 
 ## Education
 
-- 📖 **Full-time bootcamp Full-stack Web Development**\
-📆 Jan 2022 - Mar 2022\
+- 📖 **Bootcamp Full-stack Web Development**\
+📆 Jan 2022 - Mar 2022 (Full-time)\
 📍 **Ironhack Brazil**
 
 </details>
