@@ -18,9 +18,8 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 
 ## :crystal_ball: Stats
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jotavkf&show_icons=true&theme=vision-friendly-dark" alt="Jotavkf stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavkf&layout=compact&theme=vision-friendly-dark" alt="Jotavkf most used languages"/>
 </p>
 
 ### :earth_americas: You can reach me here:
