@@ -16,6 +16,10 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 <img height="20px" width="80px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
+## 🚧 Latest project
+
+![Kols - Sistema de Gestão Empresarial (ERP)](https://github.com/jotavkf/kols-client)
+
 ## :crystal_ball: Stats
 
 <p align="left">
