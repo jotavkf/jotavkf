@@ -18,7 +18,7 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 
 ## 🚧 Latest project
 
-[Kols - Sistema de Gestão Empresarial (ERP)](https://github.com/jotavkf/kols-client)
+[Kols](https://github.com/jotavkf/kols-client) - Sistema de Gestão Empresarial (ERP)
 
 ## :crystal_ball: Stats
 
