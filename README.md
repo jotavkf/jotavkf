@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Jota!</h1>
+<h1 align="center">Hey, I'm Jota!</h1>
 
 <p align="center"> :man: Junior Web Developer🔭</p
 <br></br>
