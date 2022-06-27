@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Jota!</h1>
 
-<p align="center"> :man: Junior Web Developer🔭</p
+<p align="center"> :man: Front-end Web Developer🔭</p
 <br></br>
-I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people's lives. Therefore, I'm currently studying and practicing ways to implement what I learn in real life through powerful tools that can be used for the community.
+I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people's lives.
 <br></br>
 
 ## :floppy_disk: Stack
@@ -18,7 +18,7 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 
 ## 🚧 Latest project
 
-[Kols](https://github.com/jotavkf/kols-client) - Sistema de Gestão Empresarial (ERP)
+[Ponto Filmes](https://github.com/jotavkf/pontofilmes)
 
 ## :crystal_ball: Stats
 
@@ -40,6 +40,10 @@ I love the challenges and dynamism of life - so much so that I'm a former Intern
 - 📖 **Bootcamp Full-stack Web Development**\
 📆 Jan 2022 - Mar 2022 (Full-time)\
 📍 **Ironhack Brazil**
+
+- 📖 **B.A International Relations**\
+📆 Jun 2016 - Jun 2022\
+📍 **Universidade Federal de Santa Catarina (UFSC)**
 
 </details>
 
