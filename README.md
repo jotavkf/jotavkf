@@ -1,9 +1,6 @@
 <h1 align="center">Hey, I'm Jota!</h1>
 
 <p align="center"> :man: Front-end Web Developer🔭</p
-<br></br>
-I love the challenges and dynamism of life - so much so that I'm a former International Relations student pursuing a carrer in Web Development. I'm passionate about tech and its impact in people's lives.
-<br></br>
 
 ## :floppy_disk: Stack
 
