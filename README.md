@@ -1,6 +1,5 @@
 ## Hey, I'm Jota!
-
-#### Front-end Web Developer
+Front-end Web Developer
 
 ![HTML](https://img.shields.io/badge/-HTML-427AA1?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-427AA1?logo=CSS3&logoColor=white&style=flat-square)
