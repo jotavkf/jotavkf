@@ -11,7 +11,7 @@ Currently, I'm interested in advanced topics of React, consolidating CSS knowled
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-427AA1?&logo=tailwindcss&logoColor=white&style=flat-square)
 ![ExpressJS](https://img.shields.io/badge/Express.js-427AA1?logo=express&logoColor=white&style=flat-square)
 
-<a href='https://github.com/jotavkf/pontofilmes'><img src='https://img.shields.io/badge/Latest%20project:-Ponto%20Filmes-blueviolet?style=flat-square&logo=React' alt='Latest project'/></a>
+<a href='https://github.com/jvkf/pontofilmes'><img src='https://img.shields.io/badge/Latest%20project:-Ponto%20Filmes-blueviolet?style=flat-square&logo=React' alt='Latest project'/></a>
 
 ## :earth_americas: You can reach me here:
 
